@@ -8,4 +8,4 @@ When I started creating responsive email templates it was such a pain on my end.
 - CHANGE CONTENT
 - CHANGE SOCIAL MEDIA LINKS
 
-DEMO: https://litmus.com/builder/062629b
+DEMO: https://litmus.com/builder/019a6be
